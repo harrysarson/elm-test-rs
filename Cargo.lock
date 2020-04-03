@@ -150,6 +150,12 @@ checksum = "ae91b68aebc4ddb91978b11a1b02ddd8602a05ec19002801c5666000e05e0f83"
 [[package]]
 name = "locate-tests"
 version = "0.1.0"
+dependencies = [
+ "insta",
+ "lazy_static",
+ "tree-sitter",
+ "tree-sitter-elm",
+]
 
 [[package]]
 name = "memchr"
