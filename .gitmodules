@@ -1,0 +1,3 @@
+[submodule "tree-sitter-elm/c-src"]
+	path = tree-sitter-elm/c-src
+	url = https://github.com/Razzeee/tree-sitter-elm

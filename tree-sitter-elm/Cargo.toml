@@ -1,0 +1,17 @@
+[package]
+name = "tree-sitter-elm"
+version = "0.1.0"
+authors = ["Harry Sarson <harry.sarson@hotmail.co.uk>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tree-sitter = "0.6"
+
+[build-dependencies]
+cc="1.0"
+
+[dev-dependencies]
+insta = "0.15"
+itertools = "0.9"
