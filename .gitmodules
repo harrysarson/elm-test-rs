@@ -1,6 +1,6 @@
 [submodule "tree-sitter-elm/c-src"]
 	path = tree-sitter-elm/c-src
 	url = https://github.com/Razzeee/tree-sitter-elm
-[submodule "locate-tests/test-samples/elm-css"]
-	path = locate-tests/test-samples/elm-css
+[submodule "locate-tests/fixtures/elm-css"]
+	path = locate-tests/fixtures/elm-css
 	url = https://github.com/rtfeldman/elm-css
