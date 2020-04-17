@@ -4,3 +4,6 @@
 [submodule "locate-tests/fixtures/elm-css"]
 	path = locate-tests/fixtures/elm-css
 	url = https://github.com/rtfeldman/elm-css
+[submodule "elm-json"]
+	path = elm-json
+	url = https://github.com/zwilias/elm-json

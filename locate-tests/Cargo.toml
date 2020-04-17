@@ -9,6 +9,10 @@ edition = "2018"
 [dependencies]
 tree-sitter-elm = { path = "../tree-sitter-elm" }
 tree-sitter = "0.6"
+sexp = { path = "../../sexp" }
+elm-json = { path = "../elm-json" }
+workdir = { path = "../workdir" }
+walkdir = "2.3"
 
 [dev-dependencies]
 lazy_static = "1.4.0"

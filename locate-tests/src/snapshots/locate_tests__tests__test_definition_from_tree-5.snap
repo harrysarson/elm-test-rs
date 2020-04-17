@@ -1,0 +1,8 @@
+---
+source: locate-tests/src/lib.rs
+expression: "TestDefinitions::from_tree(test_tree)"
+---
+TestDefinitions {
+    exposed: [],
+    private: [],
+}

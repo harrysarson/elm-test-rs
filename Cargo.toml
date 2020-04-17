@@ -3,5 +3,7 @@
 members = [
     "app",
     "locate-tests",
-    "tree-sitter-elm"
+    "tree-sitter-elm",
+    "elm-json",
+    "workdir"
 ]
